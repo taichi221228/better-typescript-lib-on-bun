@@ -1,1 +1,2 @@
-console.log("Hello via Bun!");
+const obj = JSON.parse('{ "foo": 42 }');
+const str: string = obj;
