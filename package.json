@@ -1,16 +1,16 @@
 {
-  "name": "better-typescript-lib-on-bun",
-  "module": "index.ts",
-  "type": "module",
-  "scripts": {
-    "compile.noemit": "tsc"
-  },
-  "devDependencies": {
-    "@biomejs/biome": "^1.9.4",
-    "@types/bun": "latest",
-    "better-typescript-lib": "^2.10.0"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
-  }
+	"name": "better-typescript-lib-on-bun",
+	"module": "index.ts",
+	"type": "module",
+	"scripts": {
+		"compile.noemit": "tsc"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^1.9.4",
+		"@types/bun": "latest",
+		"better-typescript-lib": "^2.10.0"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	}
 }
