@@ -6,6 +6,7 @@
     "compile.noemit": "tsc"
   },
   "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
     "@types/bun": "latest",
     "better-typescript-lib": "^2.10.0"
   },
